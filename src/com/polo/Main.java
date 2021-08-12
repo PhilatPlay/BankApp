@@ -7,6 +7,9 @@ import java.util.LinkedList;
 import java.util.Scanner;
 
 public class Main {
+    
+    
+    //A lot of this commented out.... main still in bad shape... ************************************************************** Immediate upload aftewr presentations.
 
     public static void main(String[] args) throws ClassNotFoundException, SQLException {
         int currentUser = 6;
